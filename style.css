@@ -5,13 +5,13 @@
         align-items: center;
         justify-content: center;
         height: 100vh;
-        background-color: #f4f4f4;
+        background-color: #181814bd;
         margin: 0;
     }
     .container {
         width: 90%;
         max-width: 400px;
-        background: white;
+        background: rgb(44, 141, 183);
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -64,7 +64,7 @@
     .cart {
         margin-top: 20px;
         padding: 10px;
-        background: white;
+        background: #e0f0ff;
         border-radius: 10px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
@@ -76,7 +76,7 @@
     }
     .cart-item button {
         background: red;
-        color: white;
+        color: rgb(52, 148, 165);
         border: none;
         padding: 5px;
         cursor: pointer;
